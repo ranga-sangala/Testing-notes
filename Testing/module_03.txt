@@ -1,0 +1,55 @@
+Static Testing techinques
+> Review
+> walkthroughs
+> Inspection 
+
+1 REVIEW 
+    Conducts on the documents to ensure correctness and completeness.
+    Requirements Reviews
+    Design Reviews
+    Code Reviews
+    Test Plan Reviews
+    Test Cases Reviews
+
+2. Walk-throughs
+   Informal Review 
+   it is not pre-planned and can be done whenever required 
+   Author reads the documents or code and discuss with peers
+   also walkthroughs does not have minutes of the meet 
+
+3 Inspection 
+   Pre-planned formal review
+   In which atleast 3 to 8 people will sit in the meeting-1- reader - writer-3 moderator plus concerned.
+   Inspection will have a proper schedule which will be intimated via email to the concerned developer/ tester
+
+
+
+
+Quality Assurance vs Quality Check
+> QA is Process related    
+> QC is Actual testing of the software 
+> highlevel management people comes under QA  
+> people involve in testing process comes under QC especially testers
+
+> QA focuses on building in Quality
+> QC focuses on testing the Quality
+
+> QA is preventing defects 
+> QC is detecting defects 
+
+> QA is process oriented 
+> QC is product oriented 
+
+> QA is for entire life cycle 
+> QC is for testing part in SDLC
+
+
+Quality Engineering : people doing automation testing write the code for testing the software
+ 
+
+       
+
+  
+
+
+   

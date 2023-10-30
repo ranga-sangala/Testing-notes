@@ -1,0 +1,53 @@
+software is a collection of computer programs that helps us to perform a task.
+
+software types:
+>  system software : this software is used to run the system.
+examples :device drivers, operating system,servers,utilities, etc.
+
+> Programming software : these are used to do some process. when you run your program and execute the program and gives the output.
+examples: complieers,debuggers,interpreters.
+
+> Application software: users will use these application software . 
+examples: web aplications,mobile apps, desktop applications. etc
+
+WHAT IS SOFTWARE TESTING :
+   Software testing is a part of software development process.
+   Sofware Testing is an activity to detect and indentify the defects in the software.
+   The objective of testing is to release quality product to the client.
+
+Software Quality :
+    Quality : It is defined as the justification of all the requirements of a customer in a product.
+    Quality software is reasonably:
+    Bug-free 
+    Delivery on time.
+    Within budget.
+    Meets requirements /or expectations.
+    Maintainable.
+
+Project Vs Product 
+
+Project :
+ If software application is developed for specific customer based on the requirement then it is called Project.
+Product :
+ If software application is developed for multiple customers based on market requirements then it is called Product.
+
+ Error, Bug And Failure 
+
+ Error : it is due to incorrect human action that causes a problem
+ Bug / defect : deviation from expected behavior to the actual behaviuor of the system
+
+ Failure: The deviation identified by end-user while using the system.
+
+Reasons for software bugs:
+ > Miscommunication
+ > Software complexity
+ >programming errors 
+ > Changing requirements
+ >Lack of skilled testers.
+
+
+
+
+
+
+ 
