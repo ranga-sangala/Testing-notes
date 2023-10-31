@@ -1,3 +1,41 @@
-Levels of software Testing
- 
+Levels of software Testing -- Dynamic Testing
+ Unit Testing: testing the small component or a single functionality
+ Integration Testing: mulitple units as single unit. checking the data flow 
+ System Testing : Testing the overall functionality of application checking whether it is working according to customer requirement or not.
+ UAT : users along with testers.
+
+
+ UNIT TESTING :
+      A unit is a single component or a module of a software 
+      Unit testing conducts on a single program
+      Unit testing is white box testing technique
+      Unit testing is conducted by developers 
+      Unit testing techniques:
+            basis path testing -- every line should be executed 
+            Control structure testing 
+            Conditional coverage
+            Loops coverage 
+            Mutation Testing -- testing the code with multiple sets of data
+
+Integration Testing 
+        Integration testing performed between 2 or more modules
+        integration testing focuses on checking data communication between multiple modules.
+        Integration is white box testing techinque 
+        Testing the data flow between two modules.
+
+      Types  of Integration testing :
+        1) Incremental Integration Testing:
+            Incrementally adding the modules and testing the data flow between mmodules.
+            there are 2 approaches:
+            a)Top down approach Incremntal Integration:Incrementally adding the modules and testing the data flow between modules and ensure the module added is the child of previous module
+            b) Bottom up approach: Incrementally adding the modules and testing the data flow between the modules, and ensure the module is added is the parent of the previous model.
+            c) Sandwich /Hybrid approach is the combination of top down, botton up appracohes.
+         
+        2) Non-incremental testing :
+                Adding all the modules in a single shot and test the data flow between modules.
+            drawbacks: We might miss data flow between some of the modules.
+                     If you find any defect it is very hard to find root cause of defect.
+
+
+
  
