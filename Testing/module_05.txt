@@ -1,0 +1,19 @@
+SYSTEM TESTING :
+     Testing overall functionality of the application with respective client requirements.
+     It is a black box testing.
+     This testing is conducted by testing team.
+     After completion of component and integration level testings we start system testing.
+     Before conducting system testing we should know the customer requirements.
+     System TEsting focuses on below aspects:
+          User Interface testing(GUI)
+          Functional Testing 
+          Non funtional testing 
+          Usability testing.
+
+
+
+user Acceptance testing :
+  after completing of system testing UAT TEAM CODUCTS ACCEPTANCE TESTING IN two leveles 
+  Alpha Testing : users and customers test the application in developement environmeny
+
+  Beta testing : j
