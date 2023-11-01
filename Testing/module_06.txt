@@ -1,0 +1,49 @@
+Functional Testing :
+
+    Functionality is nothing but behaviour of the application 
+    Functional testing talks about how your feature should work
+    
+    Object Properties Testing
+    Database Testing
+    Error handling 
+    Calculations/ Manipulations Testing 
+    Links Existence & Links Execution 
+    Cookies and Sessions
+
+
+    > Object Properties Testing :
+         checking the properties of objects present on the application.
+             Ex enable, disable,visible
+
+    > DataBase Testing/Backend Testing :  
+    
+            checking db operations w.r.t DML operations 
+            Insert ,update,delete,select 
+            
+            * Gray Box Testing : Database testing involves both white and black box testing 
+            
+            Table level validations : datatype of columns,no of columns,size of coulmn, length of columns, relationship between mulitple tables
+                                   triggers,indexes,procedures,functions, views,cursors 
+                 
+    > Error Handling testing: 
+            verifying  the error messages while performing incorrect actions on the application 
+            Error messages should be readable 
+            user understandable 
+            
+
+    > Calculations or Manipulations testing: 
+            tester should verify the Calculations.
+
+    > Links Existence And Links Execution:
+
+             where exactly links are placed ---- links existence 
+             Navigating to proper page or not --- LInks Execution
+
+             Internal Links 
+             External Links 
+             Broken Links -- does not have any target pages, for future implementations we can use the broken links 
+    
+    
+    > Cookies and Sessions:
+        cookies: temporary files created by browser while browsing the pages through internet     --client side
+        Session: These are time slots created by server . session will be expired after some time
