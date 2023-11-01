@@ -10,10 +10,28 @@ SYSTEM TESTING :
           Non funtional testing 
           Usability testing.
 
+Graphical User Interface Testing is a process of testing user interface of an application 
+A graphical user interfaces includes all the elements such as menus,checkbox,buttons,colora,fonts,sizes,icons,content and images.
+
+GUI Testing Checklist.
+     Testing the size,position,width,height of the elements.
+     Testing of the error messages that are getting displayed.
+     Testing the diffrent sections of the screen.
+     Testing the font whether it is readable or nott.
+     Testing of the screen in diffrent resolutions with the help of zooming In and zooming out.
+     Testing the alignment of the texts and other elements like icons,buttons, in proper place or not.
+     Testing the color of the fonts.
+     Testing whether the image had good quality.
+     Testing of the spelling.
+     Testing the color of the hyperlink.
+     Testign of the size of imgae
+     Testing UI elements like button,text area,check box, radio buttons, drop nuttons.links etc.
+     Testing of the scrollbars accroding to the size of the page if any.44
 
 
-user Acceptance testing :
-  after completing of system testing UAT TEAM CODUCTS ACCEPTANCE TESTING IN two leveles 
-  Alpha Testing : users and customers test the application in developement environmeny
+Usability Testing :
+        During the testing validates application provides sensitive help or not to the user.
+        It checks how easily the end users are able to understand and operate the application is called usability testing
 
-  Beta testing : j
+
+        
