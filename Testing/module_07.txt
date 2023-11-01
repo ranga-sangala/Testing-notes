@@ -1,0 +1,48 @@
+Non functional Testing:
+         Once the application functionality is stable then we do non-functional testing.
+          It mainly focuses on customer expectations
+          It focuses on performance, load it can take and security etc.
+          separate environment, separate skill sets are required to perform non functional testings
+
+ Performance Testing :
+          speed of the application 
+           we perform load, stress, volume testings 
+           
+           Load testing : Gradually  Increasing the load on the application slowly then check the speed of the application.
+           Stress Testing: Suddenly increasing the load on the application and check the speed of the application 
+           Volume Testing: Checking the how much data can be handled by the application 
+
+security Testing: 
+        We test how secure our application 
+        Authentication: users are valid or not ex: Login 
+        Authorization/ Access control :    permissions of the valid users 
+
+
+Recovery Testing: 
+            Checking the system change abnormal to normal 
+
+Compatibility Testing:
+             Forward Compatibility -- upgraded versions
+            Backward Compatibility --- Versions change to previous versions    software compatibility both forward and backward 
+            Hardware Compatibility -- configuration Testing 
+
+Installation Testing: 
+           Testing the process of installation 
+           Screens and navigations are clear to understand or not 
+           Un-installation process 
+
+Sanity Or Garbage Testing :
+             extra functionality apart from customer requirement 
+             if any application provides extra feature or functionality then we consider them as bug.
+
+
+Differences between functionality and non functionality testing 
+   Functionalaity                          Non-functionality
+
+*   Validates functionality of software    * Validates  performance,security,reliability of the software 
+*  Functionality describes what software does * Non-functionality describes how software works
+* Concentrates on user requirement              * concentrates on user expectations
+* functional testing takes place before non functional  * non- functional testing performed after finishing functional testing 
+
+
+
