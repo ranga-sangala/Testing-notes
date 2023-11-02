@@ -1,0 +1,112 @@
+Software Test Design Techniques.
+          Test design Techniques heps to design better test cases 
+           Reduce the no of testcases to be executed.
+          Test desing Techniques are used to prepare data for testing.
+          there
+           Reduce the Data 
+           More Coverage
+
+There are 5 test design Techniques
+    Equivalence class partitioning
+    Boundary value analysis
+    Decision Table based testing.
+    State Transition 
+    Error guessing.
+
+
+Equivalence Class Partitioning:
+            Partitioning data into various classes and we can select data according to class then test.
+            It reduce the no of test-cases and save time for testing.
+            value check 
+            classify / divide / partition data into multiple test classes .
+            ex: Enter a number ____  allow digits from 1--500 
+
+            Normal Test Data : 1,2,3,4,.....500 
+
+            Divide values into equivalence classes:
+                                            Test data using ECP 
+
+            -100 to 0 ---> -50   Invalid data                 -50
+            1 to 100 --> 30 
+            101 to 200 --> 160 
+            201 to 300 -> 250
+            301 to 400 --> 320 
+            401 to 500 --> 450 
+            501 to 600 --> 550 Invalid data  
+
+
+            Ex : Name : ------ allow only alphabets 
+
+            Divide values into eqivalence classes 
+            A....Z   ---> XYZ
+            a....z    ---> zyz
+            special char --> @%
+            spaces --> 250 xy z 
+            Numbers ---> 320   1234 
+
+
+
+    Boundary Value Analysis:
+
+            BVA techinque used to check the boundaries of the input 
+
+            Ex Enter a age : ----- allow digits from 18 to 35 
+
+                 MIN = 18      max = 35 
+                 min -1 = 17 fail    max - 1 = 34 pass 
+                 min + 1 = 19 pass  max+1 = 36 fail 
+    
+           MIN, MIN + 1, MIN- 1 , MAX , MAX-1 , MAX +1 these are values we test BVA 
+
+    These techquies(ECP,BVA) are used in Input domain testing.
+      The value wiil be verified in the text box/ input fields.
+
+
+    DECISION TABLE :
+         Decision table is also called Cause-effect table.
+         This technquie will be used if we have more conditions and corresponding actions.
+         In this technique, we deal with combinations of inputs.
+         To identify the test cases with decision table, we consider conditions and actions.
+         IF WE HAVE more no of conditions and actions then we use decision tables.
+         Ex:  Transfering money online to an account which is already added and approved.
+               conditons:
+                  account already approved.
+                  OTP matched.
+                  Sufficient money in the account.
+                Actions:
+                   Transfer money.
+                   Show a message as insufficinet amount
+                   Block the transaction incase of suspicious transaction.
+    
+    STATE TRANSITION:
+         In State Transition technique changes in input conditons change the state of the application.
+         This technique allows the tester to test the behaviour of AUT.
+         THis tester can perform this action by entering various input conditions in a sequence.
+         In state transition technqie, the testing team provides positive as well as negative input test values for evaluating the system behaviour.
+    
+     Example :
+        login page of an application which locks the user name after three wrong attempts of the password.
+
+    
+    Error Guessing:
+         Error guessing is one of the testing techinque used to find bugs in a software application based on testor's prior experience.
+         In error quessing we dont follow any specific rules.
+         It depends on Tester analytical skills and experience.
+
+         some of the examples :
+            Submitting form without enteing values.
+            Entering ivalid values such as entering alphabets in the numeric fields.
+
+           
+
+
+
+
+
+
+
+
+
+
+
+    
